@@ -3,7 +3,7 @@
 # USAGE:
 
 # Import Class
-from path/to/Trie.py import Trie
+from Trie import Trie
 
 # Initialize
 DICTIONARY = Trie([
